@@ -1,4 +1,4 @@
 # Measuring Multimodal Accessibility to Neighborhood Amenities
 
-**Project for CYPLAN 101**  – UC Berkeley By: Claire Maxime Beaudin, Alisa Simunovna Karesh, Victor Obinna Ezike
+**Project for CYPLAN 101**  – UC Berkeley By: Claire Maxime Beaudin, Alisa Simunovna Karesh, Victor Obinna Ezike<br>
 **Partner:** BayLink Labs & Metropolitan Transportation Commission (MTC) Project Liaison: Kearey
