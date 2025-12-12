@@ -1,0 +1,29 @@
+name: cyplan-101-env
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.11
+  - numpy
+  - pandas
+  - scikit-learn
+  - pytorch
+  - torchvision
+  - pillow
+  - matplotlib
+  - seaborn
+  # Geospatial dependencies for network analysis
+  - geopandas>=1.0
+  - osmnx>=2.0
+  - networkx>=3.0
+  - pyarrow
+  - shapely
+  - rtree
+  - contextily
+  - folium
+  - requests
+  - pip
+  - pip:
+      - open-clip-torch
+      - umap-learn
+      - hdbscan
+      - pandana
